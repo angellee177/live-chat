@@ -17,5 +17,5 @@ git clone https://github.com/angellee177/live-chat.git
 ```
 npm install
 ```
-3. Then type the command below on terminal ``` npm run dev `` to start this project on your local environment.
+3. Then type the command below on terminal ``` npm run dev ``` to start this project on your local environment.
 
